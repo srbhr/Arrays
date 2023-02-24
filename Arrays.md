@@ -1,7 +1,4 @@
 # Arrays
-Array DSA
-
-# Arrays
 
 
 #### Problem: Leaders in an array
